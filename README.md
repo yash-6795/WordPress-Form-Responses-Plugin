@@ -1,2 +1,2 @@
 # WordPress-Form-Responses-Plugin
-WordPress Plugin for retrieve all form data in WordPress Dashboard Panel.
+WordPress Plugin to retrieve custom form data from remote VMs and then show the same in WordPress Dashboard Panel.
